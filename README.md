@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/indraneel483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indraneel483" height="30" width="40" /></a>
-<a href="[www.linkedin.com/in/indraneelmanthri/](https://www.linkedin.com/in/indraneelmanthri/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indraneelmanthri?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqwxel%2bs6r6swmhvpp01d1w%3d%3d" height="30" width="40" /></a>
+<a href="[[www.linkedin.com/in/indraneelmanthri/](https://www.linkedin.com/in/indraneelmanthri/)](https://www.linkedin.com/in/indraneelmanthri/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indraneelmanthri?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bqwxel%2bs6r6swmhvpp01d1w%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/indraneelreddy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indraneelreddy__" height="30" width="40" /></a>
 </p>
 
